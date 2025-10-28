@@ -11,17 +11,18 @@ Las mejoras incluyen:
 - Reorganización de elementos en la interfaz para mejor experiencia de usuario.
 
 🔹 **Estructura del Proyecto**
-
+```
 GUI/
-│__ saludo.gif
-├── app.py                       # Interfaz gráfica principal con mejoras visuales y funciones nuevas
-├── db.py                        # Configuración y conexión con la base de datos MySQL
-├── manager.py                   # Lógica de manejo de empleados (agregar, listar, eliminar, exportar CSV)
-├── README.md                    # Este archivo
-├── captura_antes.png            # Captura de la interfaz anterior (Ejercicio 13)
-├── captura_despues.png          # Captura de la interfaz mejorada (Ejercicio 14)
-└── background.png
-
+│
+├── app.py                         # Interfaz gráfica principal con mejoras visuales y funciones nuevas
+├── db.py                          # Configuración y conexión con la base de datos MySQL
+├── manager.py                     # Lógica de manejo de empleados (agregar, listar, eliminar, exportar CSV)
+├── captura_antes.py               # Captura de la interfaz anterior (Ejercicio 13)
+├── captura_despues.py             # Captura de la interfaz mejorada (Ejercicio 14)
+├── README.md                      # Este archivo
+├── background.png                 # Fondo
+└── saludo.gif                     # GIF
+```
 
 🔹 **Base de Datos**
 
